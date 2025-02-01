@@ -1,0 +1,13 @@
+.input {
+    width: 57%;
+    height: 30px;
+    border-style: solid;
+}
+
+.submit {
+    background-color: green;
+    border-radius: 5px;
+    height: 35px;
+    color: aliceblue;
+    border: none;
+}
